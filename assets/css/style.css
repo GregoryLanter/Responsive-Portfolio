@@ -97,17 +97,17 @@ p{
 
 /** it looks like i have a class for texture on each page**/
 .old_Map_Index{
-    background-image: url(../images/old_Map.png);
+    background-image: url(../images/old_map.png);
     position: relative;
     Top: -3px;
 }
 .old_Map_Portfolio{
-    background-image: url(../images/old_Map.png);
+    background-image: url(../images/old_map.png);
     position: relative;
     Top: -3px;
 }
 .old_Map_Contact{
-    background-image: url(../images/old_Map.png);
+    background-image: url(../images/old_map.png);
     position: relative;
     Top: -3px;
 }
